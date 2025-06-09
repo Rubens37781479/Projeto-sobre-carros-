@@ -55,9 +55,6 @@ Digite o ano de fabricacao: 2022
 Carro adicionado com sucesso!
 Arquivo de Saída
 Se a opção 3 for selecionada, o programa gera o arquivo carros.txt com os dados dos carros, no seguinte formato:
-![Captura de Tela (2)](https://github.com/user-attachments/assets/5eaa76f9-59b2-42a5-8c8c-2b089710c224)
-![Captura de Tela (3)](https://github.com/user-attachments/assets/4c539bdd-bc8b-44c6-ab6d-a0cee82e64ec)
-![Captura de Tela (1)](https://github.com/user-attachments/assets/a1fd0ed8-2466-4fd4-8f2d-013d455c0994)
 
 Copiar
 Editar
@@ -65,3 +62,7 @@ Editar
 2. Nome: Gol | Marca: Volkswagen | Ano: 2021
 Limitações
 A pilha comporta até 100 carros.
+
+![Captura de Tela (2)](https://github.com/user-attachments/assets/5eaa76f9-59b2-42a5-8c8c-2b089710c224)
+![Captura de Tela (3)](https://github.com/user-attachments/assets/4c539bdd-bc8b-44c6-ab6d-a0cee82e64ec)
+![Captura de Tela (1)](https://github.com/user-attachments/assets/a1fd0ed8-2466-4fd4-8f2d-013d455c0994)
